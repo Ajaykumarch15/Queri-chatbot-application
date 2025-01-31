@@ -114,10 +114,10 @@ Queri is **open-source** and licensed under the **MIT License**.
 
 ## 💬 **Support & Feedback**  
 For support or feedback, reach out via:  
-📧 Email: `your-email@example.com`  
-🐦 Twitter: `@your-twitter-handle`  
+📧 Email: `ajaykumarchodipilli15@gmail.com`  
+🐦 LinkedIn: `www.linkedin.com/in/ajay-ch-3ba8b7259` 
 📌 GitHub Issues: [Report a bug or request a feature](https://github.com/your-username/queri/issues)  
 
 ---
 
-This is **now a professional-grade README** with detailed sections and structured information. Let me know if you want any modifications! 🚀🔥
+
