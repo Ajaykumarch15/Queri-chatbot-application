@@ -1,6 +1,4 @@
-Here’s a **professional and detailed** README for your **Queri** React app, structured like a well-documented open-source project. 🚀  
 
----
 
 # **Queri - AI-Powered Web Application**  
 Queri is an **AI-driven web application** built with **React.js** and powered by **Google's Gemini API**. It delivers real-time intelligent responses, making interactions seamless and insightful. Whether you're searching for answers, generating creative content, or analyzing data, Queri provides a **fast, secure, and intuitive** experience.  
