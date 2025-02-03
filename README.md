@@ -15,7 +15,7 @@ Queri is an **AI-driven web application** built with **React.js** and powered by
 - **Mobile-friendly & responsive** for seamless use across devices.  
 - Clean, minimalistic, and intuitive design for better engagement.  
 
-### ⚡ **Performance & Scalability**  
+### ⚡ **Performance &  Scalability**  
 - Optimized API calls for **fast response times**.  
 - Efficient **state management** for a smooth user experience.  
 - Scalable **architecture** to handle high traffic and concurrent users.  
